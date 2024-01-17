@@ -1,8 +1,7 @@
-# DevNull Labs
+# DevNull
 
 ### Full cycle software development [web3, smartcontracts, mobile]
 We develop solutions both from technical specifications and from scratch, transforming your ideas into stylish UX with power under the hood. DevNull consists of more than twenty front-end, back-end, analytics, UX, UI, QA, management, and product marketing specialists. Together we’ve developed dozens of projects like data analytic tools, monitoring tools, NFT minters,  crypto payments gateway, and more.
-
 
 ### Product launch & marketing support [strategy, market-fit, media]
 DevNull Labs is focused on helping tech companies go to market and grow. Research and strategy, startup acceleration programs, full-cycle marketing, and support from the community – we have everything to find your product-market fit and help you create a product that people want.
